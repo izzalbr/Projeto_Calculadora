@@ -9,4 +9,10 @@ export const ButtonContainer = styled.button`
     font-family: Roboto, sans-serif;
     color: rgba(5, 5, 5, 1);
     font-size: 25px;
+    &:hover {
+        background-color: #dddddddd;
+    }
+    &:active {
+        background-color: #aaaaaaaa;
+
     `
