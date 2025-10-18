@@ -21,7 +21,6 @@ export const InputContainer = styled.div`
         border: 0px;
         color: #ffffffff;
 
-
         font-size: 30px;
         text-align: right;
         font-family: Roboto, sans-serif;
